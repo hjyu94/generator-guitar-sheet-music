@@ -1,0 +1,13 @@
+r1,r2
+Aadd2,G,DF+,FM7,G
+Aadd2,G,DF+,FM7,DE
+r3,r4
+Aadd2,F+m7-11,Dadd2,E
+r5
+C+m7,F+m7-11,Bm7,E,
+r6,r7
+C+m7,F+m7-11,Bm7,E,FM7,G
+r8,r9
+C,G,Am7,Em,F,CE,Dm7,G
+C,G,Am7,Em,F,F,FG,DE
+
