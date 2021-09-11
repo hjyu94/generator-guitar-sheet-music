@@ -2,7 +2,7 @@ SongForm
 Gadd2,AG,Em7,DF+,Asus4,
 Int1,Int2
 Int3,Int4
-F+m7,AG,DF+,Bm7,Asus4
+F+m7,AG,DF+,Bm7,Em7,Asus4
 A1,A2,A3,A4
 F+m7,AG,Bm7,Em7,Dsus4,GmD,D
 A'1,A'2,A'3,A'4
@@ -13,6 +13,13 @@ C1,C2,C3,C4
 C5,C6,C7,C8
 GM7,AG,F+m7,B-M7F,Em7,DF+,Asus4
 D1,D2,D3
+F+m7,AG,Bm7,Em7,Dsus4,GmD,D
+A'1,A'2,A'3,A'4
+Bm7,F+m7,AC+,Em7,DF+,Asus4
+B1,B2,B3,B4
+F+m7,AG,Em7,DF+,Asus4
+C1,C2,C3,C4
+C5,C6,C7,C8
 F+m7,AG,Asus4,Dsus4,GmD
 C'1,C'2,C'3,C'4
 C'5,C'6,C'7
